@@ -16,7 +16,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ### Tools Used
 
 - SPLUNK - Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- PFSense Firewall - Traffic control system that provides firewall capabilities and forwards logs to Splunk for analysis.
+- pfSense Firewall – Firewall and traffic management system that forwards logs to Splunk for analysis.
 - Zeek & Suricata - Network security tools for traffic analysis and intrusion detection, forwarding logs and alerts to Splunk for analysis.
 - Active Directory - Domain controller managing user accounts, authentication, and configuring audit policies, while sending security logs to Splunk.
 - Kali Linux & Atomic Red Team - Telemetry generation tools to create realistic network traffic and attack scenarios.
