@@ -24,11 +24,21 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 ## Steps Taken
 
-#### 1.Creating the network diagram and installing pfSense.
+#### 1.Creating the network diagram.
 
 -At the beginning, I drew a network diagram in draw.io to logically outline my plan. Imagine this as a small business environment, implemented across six separate virtual machines.
 
 <img width="607" height="640" alt="draw iooo" src="https://github.com/user-attachments/assets/20c08eb5-664f-4435-80ae-82f7184fa4e3" />
+
+
+#### 2.Installing pfSense Firewall.
+
+-Configure two network adapters and assign IPs: one for WAN and one for LAN.<br>
+ *Note*: WAN should have internet access, LAN stays internal.
+ 
+<img width="850" height="539" alt="pfsense" src="https://github.com/user-attachments/assets/cc641932-509e-432a-9f1d-dc8f5b7f5553" />
+<img width="750" height="722" alt="pfsense" src="https://github.com/user-attachments/assets/646903d4-deac-4332-ac35-ed2a96dae715" />
+
 
 
 
