@@ -45,7 +45,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 ##### -First, assign a static IP address.
 
-<img width="1006" height="855" alt="sada" src="https://github.com/user-attachments/assets/e7815e09-394d-40bf-96dc-c01221c7b678" />
+<img width="1006" height="855" alt="sada" src="https://github.com/user-attachments/assets/e7815e09-394d-40bf-96dc-c01221c7b678" /><br>
 
 
 ##### -After assigning a static IP address, install Active Directory.
@@ -117,10 +117,18 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 
 #### 5.Configure Zeek & Suricata
+-First, assign a static IP address.
 
+<img width="902" height="266" alt="Screenshot 2025-08-22 234948" src="https://github.com/user-attachments/assets/7ac4f33d-6605-4ea2-9570-417e3046091b" /><br
+
+-Forward **Zeek and suricata logs** to my Splunk server
+
+<img width="805" height="509" alt="Screenshot 2025-08-23 000045" src="https://github.com/user-attachments/assets/e1830d5d-0b59-408b-a06c-9044c35674db" />
 
 
 #### 6.Configure PFSense
+
+
 
 #### 7.Generating Telemetry
 
