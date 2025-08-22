@@ -87,7 +87,36 @@ The Detection Lab project aimed to establish a controlled environment for simula
 <img width="714" height="476" alt="sysmonnn" src="https://github.com/user-attachments/assets/420ed5fd-9eab-45c5-b9fa-f47a3516fdd8" /><br>
 
 
-#### 4.Setting Up Splunk
+#### 4.Setting Up SplunkSince we have installed Splunk on the Ubuntu Server, we assign an IP address to our Splunk machine
+
+##### - Since we have installed Splunk on the Ubuntu Server, we assign an IP address to our Splunk machine.
+
+<img width="930" height="319" alt="ip lin" src="https://github.com/user-attachments/assets/ab527ea0-14cd-4e37-af3a-3b10e345c8e6" /> <br>
+
+##### - Creating a Splunk Indexer
+
+<img width="1193" height="479" alt="indexer" src="https://github.com/user-attachments/assets/db22e811-368d-4760-86a1-a29b6a391bb1" /><br>
+
+##### - Installing Splunk-Forward on windows 10 machine. 
+
+- **Enable port 9997** -> settings -> Forwarding and receiving -> Configure Receiving. (for receiving data)
+
+  <img width="1021" height="359" alt="9997" src="https://github.com/user-attachments/assets/d703e916-f415-48f1-a718-b65f41f54bdb" />
+
+- We need some configuration in **inputs.conf**
+
+<img width="1140" height="780" alt="splunkfwrd" src="https://github.com/user-attachments/assets/0409ce59-8e82-4a5a-aff7-4b1bb50b7719" />
+
+- By default, the Splunk Forwarder account cannot read Sysmon logs, so we go to Splunk services and enable the **Local System account** to push all logs to the Splunk Forwarder.
+
+<img width="8017" height="625" alt="services" src="https://github.com/user-attachments/assets/23518ff1-96bf-4a01-89a5-7e003097f80d" /><br>
+
+- **proof of concept**
+
+<img width="811" height="662" alt="splunksoosss" src="https://github.com/user-attachments/assets/450262b8-057f-4180-94cf-cfba0ae671f7" />
+
+
+
 
 #### 5
 
