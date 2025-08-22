@@ -155,7 +155,6 @@ System -> Package Management -> Available Packages -> Search for Squid
 
 #### 7.Generating Telemetry
 
-#### 8
 
 
 
