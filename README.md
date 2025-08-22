@@ -76,23 +76,15 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 - Enable monitoring for brute force activity and administrative privileges
 
-<img width="798" height="614" alt="gpo5" src="https://github.com/user-attachments/assets/94098945-6f21-46dd-9e8b-e656b2bf0a8d" />
+<img width="798" height="614" alt="gpo5" src="https://github.com/user-attachments/assets/94098945-6f21-46dd-9e8b-e656b2bf0a8d" /><br>
 
+- Enable Process tracking EventID - 4688 (not enabled by default)
 
+<img width="800" height="5000" alt="4688" src="https://github.com/user-attachments/assets/944cd73d-c98d-4a76-b319-27319fb789bb" /><br>
 
+- Installed Sysmon to enhance telemetry collection
 
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="714" height="476" alt="sysmonnn" src="https://github.com/user-attachments/assets/420ed5fd-9eab-45c5-b9fa-f47a3516fdd8" />
 
 
 
