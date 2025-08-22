@@ -67,16 +67,17 @@ The Detection Lab project aimed to establish a controlled environment for simula
  
 - Configure my environment according to Microsoft’s baseline recommendations.
 
-<img width="1021" height="883" alt="gpo2" src="https://github.com/user-attachments/assets/880e892f-e81e-4ec5-8e82-4f1af1f31ee5" /><br>
+<img width="1021" height="683" alt="gpo2" src="https://github.com/user-attachments/assets/880e892f-e81e-4ec5-8e82-4f1af1f31ee5" /><br>
 
 
 - Reviewing a Microsoft security baseline recommendation and let's see in the screenshot above how we successfully completed it.()
   
-<img width="712" height="292" alt="sgo3" src="https://github.com/user-attachments/assets/f2487ac8-62f7-4343-8fdf-843f56764bf1" />
+<img width="712" height="292" alt="sgo3" src="https://github.com/user-attachments/assets/f2487ac8-62f7-4343-8fdf-843f56764bf1" /><br>
 
 - Enable monitoring for brute force activity and administrative privileges
 
-<img width="998" height="814" alt="gpo5" src="https://github.com/user-attachments/assets/3cfb4ddc-fe69-4623-aeb7-0ce9fa808baa" />
+<img width="798" height="614" alt="gpo5" src="https://github.com/user-attachments/assets/94098945-6f21-46dd-9e8b-e656b2bf0a8d" />
+
 
 
 
