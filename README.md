@@ -130,8 +130,23 @@ The Detection Lab project aimed to establish a controlled environment for simula
 <img width="1018" height="762" alt="zeek logs" src="https://github.com/user-attachments/assets/f8588571-4b4d-43b9-952a-4bbbf22b5bb6" /><br>
 *This setup proved to be particularly challenging. Not all of the steps have been documented here to avoid making this section excessively long.
 
-#### 6.Configure PFSense
+#### 6.Configure PFSense Firewall
 
+##### -Configure pfSense: I want to send Syslog to my Splunk server, but before that, I need to install the proxy log.<br> 
+
+<img width="1105" height="882" alt="pfsense" src="https://github.com/user-attachments/assets/fff31e74-9df6-4734-a35c-3caf5abdbfc0" /><br>
+
+- Install Proxy log - **SquidProxy** <br> 
+System -> Package Management -> Available Packages -> Search for Squid
+<img width="940" height="646" alt="7 3" src="https://github.com/user-attachments/assets/404bf223-fbb9-41e6-a7c2-e8cff5296f08" />
+
+-Installing Splunk Forwarder
+
+<img width="952" height="896" alt="pfsense splunkfowraed7 4" src="https://github.com/user-attachments/assets/1780d704-14dd-4b9e-accb-e0b8aa469f89" /><br>
+
+-Creating file **input.conf**
+
+<img width="913" height="643" alt="inputs" src="https://github.com/user-attachments/assets/023d3816-7dac-49d5-9ca3-08d0c6165f44" />
 
 
 #### 7.Generating Telemetry
