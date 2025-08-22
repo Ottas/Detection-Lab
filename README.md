@@ -43,6 +43,27 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 #### 3.Setting Up Active Directory
 
+##### -First, assign a static IP address.
+
+<img width="1006" height="855" alt="sada" src="https://github.com/user-attachments/assets/e7815e09-394d-40bf-96dc-c01221c7b678" />
+
+
+##### -After assigning a static IP address, install Active Directory.
+
+<img width="1021" height="878" alt="install acd" src="https://github.com/user-attachments/assets/e66b4487-73d0-4702-a76f-c970f1618255" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
