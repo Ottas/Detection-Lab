@@ -123,8 +123,12 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 -Forward **Zeek and suricata logs** to my Splunk server
 
-<img width="805" height="509" alt="Screenshot 2025-08-23 000045" src="https://github.com/user-attachments/assets/e1830d5d-0b59-408b-a06c-9044c35674db" />
+<img width="805" height="509" alt="Screenshot 2025-08-23 000045" src="https://github.com/user-attachments/assets/e1830d5d-0b59-408b-a06c-9044c35674db" /><br>
 
+-**Zeek and Suricata logs have been successfully configured**
+
+<img width="1018" height="762" alt="zeek logs" src="https://github.com/user-attachments/assets/f8588571-4b4d-43b9-952a-4bbbf22b5bb6" /><br>
+*This setup proved to be particularly challenging. Not all of the steps have been documented here to avoid making this section excessively long.
 
 #### 6.Configure PFSense
 
