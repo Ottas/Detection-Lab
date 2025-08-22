@@ -50,7 +50,34 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 ##### -After assigning a static IP address, install Active Directory.
 
-<img width="1021" height="878" alt="install acd" src="https://github.com/user-attachments/assets/e66b4487-73d0-4702-a76f-c970f1618255" />
+<img width="1021" height="878" alt="install acd" src="https://github.com/user-attachments/assets/e66b4487-73d0-4702-a76f-c970f1618255" /><br>
+
+##### -I created three departments with one user each, as commonly done in many Active Directory environments.
+
+<img width="1026" height="875" alt="create a user" src="https://github.com/user-attachments/assets/1420c265-d5a0-4583-b13c-bc3d7e82bc3f" />
+
+##### -Configured the Windows 10 client to join the Active Directory domain using the created user account.Below is a screenshot showing how to log in with the created user account.
+
+<img width="800" height="500" alt="create a win10" src="https://github.com/user-attachments/assets/1ab0d41e-1b0f-4c71-93dd-fadc232f8437" />
+
+##### -Configuring Logging Policies  - Group Policy Object
+- Create a GPO and name it "Group Policy – Endpoint"
+<img width="1032" height="876" alt="gpoo" src="https://github.com/user-attachments/assets/dafc44fa-67e1-4aef-adac-7c8143197e2e" />
+
+ 
+- Configure my environment according to Microsoft’s baseline recommendations.
+
+<img width="1021" height="883" alt="gpo2" src="https://github.com/user-attachments/assets/880e892f-e81e-4ec5-8e82-4f1af1f31ee5" /><br>
+
+
+- Reviewing a Microsoft security baseline recommendation and let's see in the screenshot above how we successfully completed it.()
+  
+<img width="712" height="292" alt="sgo3" src="https://github.com/user-attachments/assets/f2487ac8-62f7-4343-8fdf-843f56764bf1" />
+
+- Enable monitoring for brute force activity and administrative privileges
+
+<img width="998" height="814" alt="gpo5" src="https://github.com/user-attachments/assets/3cfb4ddc-fe69-4623-aeb7-0ce9fa808baa" />
+
 
 
 
