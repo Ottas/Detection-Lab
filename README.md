@@ -105,24 +105,24 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 - We need some configuration in **inputs.conf**
 
-<img width="1140" height="780" alt="splunkfwrd" src="https://github.com/user-attachments/assets/0409ce59-8e82-4a5a-aff7-4b1bb50b7719" />
+<img width="1140" height="780" alt="splunkfwrd" src="https://github.com/user-attachments/assets/0409ce59-8e82-4a5a-aff7-4b1bb50b7719" /><br>
 
 - By default, the Splunk Forwarder account cannot read Sysmon logs, so we go to Splunk services and enable the **Local System account** to push all logs to the Splunk Forwarder.
 
 <img width="8017" height="625" alt="services" src="https://github.com/user-attachments/assets/23518ff1-96bf-4a01-89a5-7e003097f80d" /><br>
 
-- **proof of concept**
+- **Splunk has been successfully configured**
 
-<img width="811" height="662" alt="splunksoosss" src="https://github.com/user-attachments/assets/450262b8-057f-4180-94cf-cfba0ae671f7" />
-
-
+<img width="833" height="658" alt="splunksoosss" src="https://github.com/user-attachments/assets/25961d90-640c-4afb-b1a9-2f89cb1b2874" /><br>
 
 
-#### 5
+#### 5.Configure Zeek & Suricata
 
-#### 6
 
-#### 7
+
+#### 6.Configure PFSense
+
+#### 7.Generating Telemetry
 
 #### 8
 
