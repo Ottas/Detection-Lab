@@ -146,7 +146,11 @@ System -> Package Management -> Available Packages -> Search for Squid
 
 -Creating file **input.conf**
 
-<img width="913" height="643" alt="inputs" src="https://github.com/user-attachments/assets/023d3816-7dac-49d5-9ca3-08d0c6165f44" />
+<img width="913" height="643" alt="inputs" src="https://github.com/user-attachments/assets/023d3816-7dac-49d5-9ca3-08d0c6165f44" /><br>
+
+-Firewall logs have been successfully parsed.<br>
+
+<img width="1022" height="722" alt="pfsese" src="https://github.com/user-attachments/assets/cd073f13-08de-42d9-8392-abadd502ba79" />
 
 
 #### 7.Generating Telemetry
