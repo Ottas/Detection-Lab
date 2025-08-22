@@ -84,11 +84,10 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 - Installed Sysmon to enhance telemetry collection
 
-<img width="714" height="476" alt="sysmonnn" src="https://github.com/user-attachments/assets/420ed5fd-9eab-45c5-b9fa-f47a3516fdd8" />
+<img width="714" height="476" alt="sysmonnn" src="https://github.com/user-attachments/assets/420ed5fd-9eab-45c5-b9fa-f47a3516fdd8" /><br>
 
 
-
-#### 4
+#### 4.Setting Up Splunk
 
 #### 5
 
