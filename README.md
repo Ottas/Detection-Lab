@@ -184,9 +184,29 @@ System -> Package Management -> Available Packages -> Search for Squid
 
 -ALL Destination Ips.
 
-<img width="950" height="942" alt="all destination IPS" src="https://github.com/user-attachments/assets/8ba691d6-436a-4820-b465-0d498827a7eb" />
+<img width="950" height="942" alt="all destination IPS" src="https://github.com/user-attachments/assets/8ba691d6-436a-4820-b465-0d498827a7eb" /><br>
 
 ---
 
 ##### -THE LAST THING I WOULD DO FOR A DETECTION LAB IS INSTALL ATOMIC RED TEAM TO HELP ME PRODUCE ADDITIONAL TELEMETRY
+
+
+##### -Checking Our Techniques and Executing T1136.001 Attack to Test User local Account.
+
+<img width="988" height="878" alt="t11" src="https://github.com/user-attachments/assets/4e240d4b-1fc9-4008-8b07-6783729c1211" /><br>
+
+##### -EXECUTING 
+
+<img width="994" height="880" alt="t1136" src="https://github.com/user-attachments/assets/6517e1ec-0037-46c0-93d5-fef2dd1f6baf" /><br>
+
+
+##### -Investigating Events in Splunk for our "NewLocalAccount".
+
+<img width="987" height="837" alt="local" src="https://github.com/user-attachments/assets/9f078d2d-bf7f-4796-8c72-5e25415a1566" />
+
+---
+
+
+
+
 
