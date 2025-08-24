@@ -206,6 +206,9 @@ System -> Package Management -> Available Packages -> Search for Squid
 
 ---
 
+### Summary
+
+Completing this detection project, I was able to gain greater confidence and a deeper understanding of the tools, as well as how they interact with each other. As we observed, this combination of skills and tools could be applied in a  business environment.
 
 
 
