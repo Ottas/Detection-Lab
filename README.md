@@ -155,6 +155,38 @@ System -> Package Management -> Available Packages -> Search for Squid
 
 #### 7.Generating Telemetry
 
+##### -Install Kali Linux and Assign static IP
+
+<img width="600" height="500" alt="kali" src="https://github.com/user-attachments/assets/3a407257-ca2c-46c6-b0f1-1de4ce11e8c2" /><br>
+
+##### -Creating a basic malware that can be executed on Windows, which will establish a C2 connection to my Kali Linux machine.
+
+<img width="1002" height="321" alt="kal1" src="https://github.com/user-attachments/assets/6bb4d42e-11e8-4e61-a6c1-ebc662832dad" /><br>
+
+##### -Metasploit Framework.
+
+<img width="700" height="700" alt="kali3" src="https://github.com/user-attachments/assets/d4cf74fd-dd43-4460-a581-de9a30531ebd" /><br:
+
+##### -Listening HTTP on my kali linux.
+
+<img width="600" height="600" alt="kali" src="https://github.com/user-attachments/assets/0e632a19-a813-4439-841f-0609e8bbd5a4" /><br>
+
+-Then, I go to the Windows machine and download the payload that we created. Note: the firewall must be disabled, otherwise it will block it. As you can see in the screenshot above, I have downloaded it several times already.
+
+<img width="800" height="351" alt="kali5" src="https://github.com/user-attachments/assets/686954c8-7d93-4adc-9253-5536248b947b" /><br>
 
 
+##### -Next, i move to Splunk to analyze the results. We also performed an Nmap scan to generate additional telemtry.
+
+
+<img width="1017" height="774" alt="invoices9" src="https://github.com/user-attachments/assets/c90594f7-6daa-4000-aaaa-fa2443cd6e5e" /><br>
+
+
+-ALL Destination Ips.
+
+<img width="950" height="942" alt="all destination IPS" src="https://github.com/user-attachments/assets/8ba691d6-436a-4820-b465-0d498827a7eb" />
+
+---
+
+##### -THE LAST THING I WOULD DO FOR A DETECTION LAB IS INSTALL ATOMIC RED TEAM TO HELP ME PRODUCE ADDITIONAL TELEMETRY
 
